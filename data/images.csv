@@ -1,0 +1,6 @@
+name,url,category,description
+hero-bg,https://ewdueeskbiwqcykgjmvm.supabase.co/storage/v1/object/public/images/hero-bg.jpg,hero,Hero background image
+chuka-portrait,https://ewdueeskbiwqcykgjmvm.supabase.co/storage/v1/object/public/images/Chuka.jpg,about,Chuka portrait
+book-love-lasts,https://ewdueeskbiwqcykgjmvm.supabase.co/storage/v1/object/public/images/The%20Love%20That%20Lasts.png,books,The Love That Lasts book cover
+book-spiritual,https://ewdueeskbiwqcykgjmvm.supabase.co/storage/v1/object/public/images/Spiritual%20Nuggets%20to%20Nurture.jpg,books,Spiritual Nuggets to Nurture book cover
+book-make-work,https://ewdueeskbiwqcykgjmvm.supabase.co/storage/v1/object/public/images/Let%20us%20make%20it%20work.jpg,books,Lets Make it Work book cover
